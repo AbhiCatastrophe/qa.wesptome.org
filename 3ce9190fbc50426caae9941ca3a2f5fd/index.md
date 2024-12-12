@@ -17,7 +17,7 @@ Winslow Elementary School PTO is a non-profit organization... (more content need
 
 
 - **What do we do?**
-(FMI: Check out our [2023 - 2024 Year in Review](/2023-2024_YIR.pdf))
+(FMI: Check out our [2023 - 2024 Year in Review](YIR/2023-2024_YIR.pdf))
     - Feed The Teachers
         - Provide meals for teachers during parent teacher conferences)
     - Annual Coin Drive
